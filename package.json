@@ -13,7 +13,7 @@
   "author": "Olof Dahlbom",
   "license": "MIT",
   "dependencies": {
-    "ms-signalr-client": "https://github.com/docongminh1/ms-signalr-client",
+    "ms-signalr-client": "git@github.com:docongminh1/ms-signalr-client.git",
     "jquery-deferred": "^0.3.1"
   }
 }
